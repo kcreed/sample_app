@@ -6,9 +6,6 @@ cursor_positions:
   - :path: public/hello.html
     :cursor_offset: 54
     :timestamp: 2012-05-17 04:57:29.562000 -05:00
-  - :path: app/controllers/static_pages_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-05-17 05:21:20.750000 -05:00
   - :path: app/controllers/application_controller.rb
     :cursor_offset: 0
     :timestamp: 2012-05-17 02:44:21.890000 -05:00
@@ -30,4 +27,7 @@ cursor_positions:
   - :path: app/views/layouts/foobar
     :cursor_offset: 0
     :timestamp: 2012-05-17 02:44:21.921000 -05:00
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 107
+    :timestamp: 2012-05-18 13:36:01 -05:00
 files_to_retain: 0
