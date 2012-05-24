@@ -12,9 +12,6 @@ cursor_positions:
   - :path: public/index.html
     :cursor_offset: 193
     :timestamp: 2012-05-17 02:44:24.125000 -05:00
-  - :path: app/controllers/application_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-05-17 02:44:21.890000 -05:00
   - :path: app/controllers/static_pages_controller.rb
     :cursor_offset: 0
     :timestamp: 2012-05-21 00:53:19.406000 -05:00
@@ -39,4 +36,13 @@ cursor_positions:
   - :path: app/helpers/application_helper.rb
     :cursor_offset: 258
     :timestamp: 2012-05-23 02:05:12.031000 -05:00
+  - :path: app/assets/images/rails.png
+    :cursor_offset: 0
+    :timestamp: 2012-05-17 02:44:21.828000 -05:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-05-17 02:44:21.890000 -05:00
+  - :path: example_user.rb
+    :cursor_offset: 206
+    :timestamp: 2012-05-24 01:50:03.562000 -05:00
 files_to_retain: 0
