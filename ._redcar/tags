@@ -1,4 +1,4 @@
-1341391539
+1341394509
 About page	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	C:/RailsProjects/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/RailsProjects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
