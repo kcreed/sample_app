@@ -1,22 +1,23 @@
-1337843310
+1341391539
 About page	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	C:/RailsProjects/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/RailsProjects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/RailsProjects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+Contact page	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "Contact page" do
 Help page	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "Help page" do
 Home page	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "Home page" do
 SampleApp	C:/RailsProjects/sample_app/config/application.rb	module SampleApp
 Static pages	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "Static pages" do
 StaticPagesController	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
 StaticPagesHelper	C:/RailsProjects/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+User pages	C:/RailsProjects/sample_app/spec/requests/user_pages_spec.rb	describe "User pages" do
+UsersController	C:/RailsProjects/sample_app/app/controllers/users_controller.rb	class UsersController 
+UsersHelper	C:/RailsProjects/sample_app/app/helpers/users_helper.rb	module UsersHelper
 about	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	  def about
+contact	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	  def contact
 full_title	C:/RailsProjects/sample_app/app/helpers/application_helper.rb	  def full_title(page_title)
+full_title	C:/RailsProjects/sample_app/spec/support/utilities.rb	def full_title(page_title)
 help	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	  def help
 home	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	  def home
-should have the base title	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should have the base title" do
-should have the h1 'About Us'	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'About Us'" do
-should have the h1 'Help'	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Help'" do
-should have the h1 'Sample App'	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should have the h1 'Sample App'" do
-should have the title 'About Us'	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'About Us'" do
-should have the title 'Help'	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should have the title 'Help'" do
-should not have a custom page title	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	it "should not have a custom page title" do
+new	C:/RailsProjects/sample_app/app/controllers/users_controller.rb	  def new
+signup page	C:/RailsProjects/sample_app/spec/requests/user_pages_spec.rb	describe "signup page" do
