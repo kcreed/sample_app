@@ -18,3 +18,4 @@ open_files:
   - app/views/users/new.html.erb
   - spec/requests/user_pages_spec.rb
   - Gemfile
+  - Gemfile.lock
