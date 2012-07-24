@@ -1,4 +1,4 @@
-1343095884
+1343100536
 About page	C:/RailsProjects/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
 AddIndexToUsersEmail	C:/RailsProjects/sample_app/db/migrate/20120718093819_add_index_to_users_email.rb	class AddIndexToUsersEmail 
 AddPasswordDigestToUsers	C:/RailsProjects/sample_app/db/migrate/20120722054651_add_password_digest_to_users.rb	class AddPasswordDigestToUsers 
@@ -19,9 +19,9 @@ UsersController	C:/RailsProjects/sample_app/app/controllers/users_controller.rb	
 UsersHelper	C:/RailsProjects/sample_app/app/helpers/users_helper.rb	module UsersHelper
 VALID_EMAIL_REGEX	C:/RailsProjects/sample_app/app/models/user.rb	  VALID_EMAIL_REGEX =
 about	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	  def about
-change	C:/RailsProjects/sample_app/db/migrate/20120712060254_create_users.rb	  def change
-change	C:/RailsProjects/sample_app/db/migrate/20120718093819_add_index_to_users_email.rb	  def change
 change	C:/RailsProjects/sample_app/db/migrate/20120722054651_add_password_digest_to_users.rb	  def change
+change	C:/RailsProjects/sample_app/db/migrate/20120718093819_add_index_to_users_email.rb	  def change
+change	C:/RailsProjects/sample_app/db/migrate/20120712060254_create_users.rb	  def change
 contact	C:/RailsProjects/sample_app/app/controllers/static_pages_controller.rb	  def contact
 full_title	C:/RailsProjects/sample_app/app/helpers/application_helper.rb	  def full_title(page_title)
 full_title	C:/RailsProjects/sample_app/spec/support/utilities.rb	def full_title(page_title)
